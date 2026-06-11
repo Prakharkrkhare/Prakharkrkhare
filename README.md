@@ -83,11 +83,10 @@ class Prakhar:
 
 <a href="https://www.linkedin.com/in/prakhar-khare-a568b22a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:prakharkumarkhare.123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
 <sub>🌱 Always learning, always shipping.</sub>
+
 </div>
-
-<br>
-
-<div align="center">
-
 
