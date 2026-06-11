@@ -81,8 +81,8 @@ class Prakhar:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prakhar-khare-a568b22a7"><img src="https://img.shields.io/badge/-LinkedIn-black?style=social&logo=linkedin"/></a>
+<a href="mailto:prakharkumarkhare.123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=social&logo=gmail"/></a>
 
 </div>
 
