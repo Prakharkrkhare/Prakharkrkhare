@@ -4,57 +4,90 @@
 
 ![3D Contribution](./profile-3d-contrib/profile-green-animate.svg)
 
-<h1 align="center">Hi, I'm Prakhar Khare 👋</h1>
-<h3 align="center">GenAI Engineer | Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  Building intelligent backend systems and LLM-powered applications.
-</p>
+# 👋 Hey, I'm Prakhar
 
----
+### 🧠 GenAI Engineer · ⚙️ Backend Builder
 
-### 🚀 About Me
+*Turning ideas into APIs and prompts into pipelines.*
 
-- 🔭 I'm currently working on **GenAI applications & backend systems**
-- 🧠 Focused on **LLMs, RAG pipelines, and agentic workflows**
-- ⚙️ I build scalable APIs and services using **Python & FastAPI**
-- 🌱 Always exploring new tools in the LLM/AI ecosystem
-- 💬 Ask me about **LangChain, OpenAI APIs, FastAPI, system design**
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+```python
+class Prakhar:
+    def __init__(self):
+        self.role = "GenAI + Backend Developer"
+        self.stack = ["Python", "FastAPI", "LangChain", "LLMs"]
+        self.currently_building = "RAG pipelines & AI agents"
+        self.fun_fact = "I debug with print statements and I'm not sorry"
 
-**Languages & Frameworks**
+    def say_hi(self):
+        return "Let's build something smart 🚀"
+```
+
+<br>
+
+## 🛠️ Tech I Work With
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakharkrkhare&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+## 🔥 The Grind
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharkrkhare&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharkrkhare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-### 📫 Connect with Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prakhar-khare-a568b22a7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<br>
 
+## 📈 Activity Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prakharkrkhare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Building%20in%20the%20Open" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Prakharkrkhare/Prakharkrkhare/output/github-contribution-grid-snake.svg" />
+
+*(animates once the snake workflow is set up — see note below)*
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>🌱 Always learning, always shipping.</sub>
+</div>
